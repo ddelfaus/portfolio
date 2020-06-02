@@ -1,20 +1,28 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import NavBar from './componets/navbar'
+import NavBar from './components/navbar'
+import Homepage from './components/homePage'
+import Footer from './components/footer'
+import Projects from './components/projects'
+
+import {Router} from "@reach/router"
+
 function App() {
 
-  const tests = process.env.REACT_APP_test
-  console.log(tests)
-  console.log(process.env)
+ 
   return (
     
-<div>
-
-    <NavBar/>
-    <p>feawfeaweaw{process.env.REACT_APP_test}</p>
-
-
+<div className=  "flex flex-col h-screen bg-gray-100">
+    
+  <NavBar/>
+    <Router>
+      <Homepage path = "/"/>
+     
+     
+      <Projects path = "/projects"/>
+    </Router>
+    <Footer/>
 </div>
   
 
@@ -32,3 +40,13 @@ function App() {
 }
 
 export default App;
+
+
+
+// "build:tailwind": "tailwindcss build src/tailwind.css -o src/tailwind.generated.css",
+// "prestart": "yarn run build:tailwind",
+// "prebuild": "yarn run build:tailwind",
+// "start": "react-scripts start REACT_APP_test='testy'",
+// "build": "react-scripts build",
+// "test": "react-scripts test",
+// "eject": "react-scripts eject"
