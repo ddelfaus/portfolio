@@ -8,7 +8,7 @@ function NavBar() {
 
 
 return(
-    <nav class=" bg-blue-500 py-6 border-solid text-5xl " >
+    <nav class=" bg-blue-500 py-6 text-5xl text-white  " >
   
 
         <div class="flex justify-between max-w-screen-xl mx-auto ">
@@ -16,20 +16,20 @@ return(
             Bio
             </a> */}
 
-            <Link to ="/" class="block mt-4 lg:inline-block  lg:mt-0 text-teal-200 hover:text-white " >Bio</Link>
+            <Link to ="/" class="block mt-4 lg:inline-block lg:mt-0 hover:text-teal-400 " >Bio</Link>
             
           
             {/* <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-64">
             Projects
             </a> */}
 
-            <Link to = "/projects" class="block  mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white ">Projects</Link>
+            <Link to = "/projects" class="block  mt-4 lg:inline-block lg:mt-0 hover:text-teal-400 ">Projects</Link>
 
             {/* <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
             Contact
             // </a> */}
 
-            <Link to ="/contact" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white ">Contact</Link>
+            <Link to ="/contact" class="block mt-4 lg:inline-block lg:mt-0 hover:text-teal-400 ">Contact</Link>
     
     
         
