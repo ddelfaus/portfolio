@@ -30,7 +30,7 @@ return(
     </div>
 
     <section class = "flex flex-row ">
-        <img src="https://images-na.ssl-images-amazon.com/images/I/81-yKbVND-L.png" alt="The Doge" width="500" height="600"/> 
+        <img class= "object-cover" src="https://images-na.ssl-images-amazon.com/images/I/81-yKbVND-L.png" alt="The Doge" /> 
         <div class = "max-w-xl ml-64">
         <p class = "">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus, dolor eget iaculis semper, elit massa pellentesque dui, sed vestibulum nisl tortor vitae tellus. Morbi consequat facilisis tempor. Curabitur id feugiat lorem, cursus tempus eros. In hac habitasse platea dictumst. Nam aliquam tortor sit amet augue tempus pretium. Sed lacinia volutpat pretium. Proin eu magna consectetur, mattis est sed, dapibus nulla. Proin in feugiat erat, ac eleifend sapien. Phasellus tristique tellus at turpis ultrices, non mollis lorem gravida. Maecenas feugiat, libero at pretium bibendum, purus odio dictum ex, a congue est felis quis dolor. Donec egestas sem ut sollicitudin bibendum.</p>
         

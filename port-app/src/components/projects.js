@@ -76,7 +76,7 @@ return(
             </div>
         </div> 
     </section>
-    <div class="lg:flex lg:justify-center text-3xl">
+    <div class="lg:flex lg:justify-center text-3xl mb-5">
         <h1>Check Out My Other Projects on</h1><a href="https://github.com/ddelfaus" class="no-underline hover:underline text-blue-500">&nbsp;Github</a>
     </div>
     </content>
