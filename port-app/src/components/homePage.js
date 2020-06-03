@@ -1,6 +1,6 @@
 
 import React from 'react';
-
+import topbanner from '../pics/binary-2910663_1920.jpg'
 
 function Homepage() {
 
@@ -15,11 +15,14 @@ return(
 
 <main class="flex flex-col items-center">
     
-    <div class = "flex flex-col items-center">
-        <img src="https://images-na.ssl-images-amazon.com/images/I/81-yKbVND-L.png" alt="The Doge" width="500" height="600"/>
+
+    <div class = "w-screen">
+        <img src={topbanner} alt="The Doge" class= "w-full "/>
+    </div>
+    <div class = "flex flex-col items-center ">
         <h1 class="text-6xl">David Delfaus</h1>
         <h1 class="text-3xl">Full-Stack Web Developer</h1>
-        <div class= "text-xl max-w-xl ">
+        <div class= "text-xl max-w-xl">
         <p class= "">
             A hard-working web developer with proficiency in HTML, JavaScript, python and CSS looking for a position in the web development field to expand knowledge and skills!</p>
         </div>
