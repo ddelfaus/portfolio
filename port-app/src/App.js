@@ -5,7 +5,7 @@ import NavBar from './components/navbar'
 import Homepage from './components/homePage'
 import Footer from './components/footer'
 import Projects from './components/projects'
-
+import Contact from './components/contact'
 import {Router} from "@reach/router"
 
 function App() {
@@ -18,9 +18,8 @@ function App() {
   <NavBar/>
     <Router>
       <Homepage path = "/"/>
-     
-     
       <Projects path = "/projects"/>
+      <Contact path = "/contact"/>
     </Router>
     <Footer/>
 </div>
