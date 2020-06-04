@@ -8,7 +8,7 @@ function NavBar() {
 
 
 return(
-    <nav class=" items-center justify-center bg-blue-500 py-6 text-5xl text-white   " >
+    <nav class=" items-center justify-center bg-black py-6 text-5xl text-white   " >
   
 
         <div class=" flex flex-col lg:flex lg:flex-row lg:justify-between max-w-screen-xl lg:mx-auto ">
