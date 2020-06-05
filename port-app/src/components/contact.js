@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import topbanner from '../pics/matrix-356024_1920.jpg'
-
+import resume from './resume.pdf'
 function Contact() {
 
 
@@ -13,8 +13,9 @@ function Contact() {
     </div>
 
         </div>
-
-<div class ="flex flex-col items-center">
+<a class= "text-blue-600 text-4xl mt-4" href ={resume} download = {resume}>Download Resume as a pdf</a>
+<iframe class= "w-3/5 h-screen my-10"src= {resume}/>
+{/* <div class ="flex flex-col items-center">
 <br/>
 <div dir="ltr" align="left">
     <table>
@@ -268,7 +269,7 @@ function Contact() {
 </div>
 
 
-</div> 
+</div>  */}
 </main> 
   )
   

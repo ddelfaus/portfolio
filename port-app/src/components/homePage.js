@@ -34,14 +34,15 @@ return(
         <img class= "object-cover" src="https://images-na.ssl-images-amazon.com/images/I/81-yKbVND-L.png" alt="The Doge" /> 
         </div>
         <div class = "max-w-xl mt-10 ">
-        <p class = "bio" >I am a hard-working web developer with proficiency in HTML, JavaScript, python and CSS that is looking for a position in the web development field to expand knowledge and skills! 
+        <p class = "bio" >I am a hard-working web developer with proficiency in HTML, JavaScript, Python and CSS that is looking for a position in the web development field to expand knowledge and skills! 
         </p>
         
         <p class = "bio mt-2">
-                I am from Virginia Beach, Va. Got a Dual Major degree in Finance and Accounting at Old Dominion University. During my last year at the university I got an internship at a non for profit organization as an accountant. I did not enjoy the work because it was the same boring task everyday and I felt like I had made the wrong career choice. It did not feel like I was learning new things everyday or explaining my knowledge. My fallback plan was to find a career in programming because I was always interested in technology and computers. Once I learned about lambda school from my brother, I decided to try it out.
+        I am from Virginia Beach, Va and lived here all my life. I got  a Dual Major degree in Finance and Accounting at Old Dominion University. During my last year at the university I got an internship at a non for profit organization as an accountant . I did not enjoy the work because it was the same boring task everyday and I felt like I had made the wrong career choice. It did not feel like I was learning new things everyday or explaining my knowledge. My fallback plan was to find a career in programming because I was always interested in technology and computers. Once I learned about lambda school from my brother, I decided to try it out.
         </p>
         <p class = "bio mt-2">
-                Lambda school seemed imitating and I did struggle to get through the program because I had no programming experience. I was able to complete the course and it was a great experience. Lambda does a good job improving your social skills with requiring zoom meetings everyday with your groups. When I am not on the computer, I like to go kayaking, skiing, going to the beach, and hanging with friends and family. </p>
+        Lambda school seemed imitating and I did struggle to get through the program because I had no programming experience. I was able to complete the course and it was a great experience. I learned most of the tools to build full functioning web apps and the tools listed below. Lambda does a good job improving your social skills with requiring zoom meetings everyday with your groups.  When I am not on the computer, I like to go kayaking, skiing, going to the beach, and hanging with friends and family. 
+ </p>
         </div>
         
     </section>
