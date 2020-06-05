@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.bio {
+  text-indent: 25px;;
+}
