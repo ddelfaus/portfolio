@@ -16,7 +16,7 @@ function App() {
 <div className=  "flex flex-col h-screen bg-gray-100 font-serif">
     
   <NavBar/>
-    <Router>
+    <Router primary={false}>
       <Homepage path = "/"/>
       <Projects path = "/projects"/>
       <Contact path = "/contact"/>
