@@ -17,7 +17,7 @@ return(
     <div class="w-full" style={{backgroundImage: `url(${topbanner})`}}>
   <div class=" p-10  py-20  flex  flex-col  flex-wrap  justify-center  content-center">
     <div class=" m-0  p-0  text-5xl  text-white  antialiased  text-center">Hi, I am David Delfaus Welcome to my Portfolio Site</div>
-    <div class=" m-0  p-0  text-xl  text-white  antialiased  text-center"> I am a hard-working web developer with proficiency in HTML, JavaScript, python and CSS looking for a position in the web development field to expand knowledge and skills!</div>
+   
  
   </div>
 </div>
