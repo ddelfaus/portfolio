@@ -16,7 +16,8 @@
     "react-dom": "^16.13.1",
     "react-pdf": "^4.1.0",
     "react-scripts": "3.4.1",
-    "tailwindcss": "^1.4.6"
+    "tailwindcss": "^1.4.6",
+    "tailwindcss-text-indent": "^1.0.2"
   },
   "scripts": {
     "build:tailwind": "postcss src/tailwind.css -o src/tailwind.generated.css",

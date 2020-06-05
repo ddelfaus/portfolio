@@ -2,7 +2,7 @@ import React from 'react';
 import Project1 from '../pics/Untitled.png'
 import Project2 from '../pics/rmt.png'
 import Project3 from '../pics/chef.png'
-
+import topbanner from '../pics/markus-spiske-iar-afB0QQw-unsplash.jpg'
 
 function Projects() {
 
@@ -16,6 +16,12 @@ function Projects() {
 return(
 
     <content class="bg-gray-100" >
+    <div class="w-full" style={{backgroundImage: `url(${topbanner})`}}>
+    <div class=" p-10  py-20  flex  flex-col  flex-wrap  justify-center  content-center">
+  
+    </div>
+
+        </div>
     <section>
         <div class="bg-gray-100 lg:py-12 lg:flex lg:justify-center">
             <div class="bg-white lg:mx-2 lg:flex lg:max-w-6xl lg:shadow-lg lg:rounded-lg">

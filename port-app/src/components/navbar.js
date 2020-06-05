@@ -29,7 +29,7 @@ return(
             Contact
             // </a> */}
 
-            <Link to ="/contact" class="self-center mt-4 lg:inline-block lg:mt-0 hover:text-teal-400 ">Contact</Link>
+            <Link to ="/contact" class="self-center mt-4 lg:inline-block lg:mt-0 hover:text-teal-400 ">Resume</Link>
     
     
         
