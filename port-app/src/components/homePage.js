@@ -1,7 +1,7 @@
 
 import React from 'react';
 import topbanner from '../pics/binary-2910663_1920.jpg'
-
+import pic  from '../pics/download.png'
 function Homepage() {
 
 
@@ -31,7 +31,7 @@ return(
 
     <section class = "p-10  py-10 lg:flex lg:flex-row lg:space-x-40 "> 
         <div class ="relative ">
-        <img class= "object-cover" src="https://images-na.ssl-images-amazon.com/images/I/81-yKbVND-L.png" alt="The Doge" /> 
+        <img class= "object-cover mt-10" src={pic} alt="Picture of David Delfaus standing on a dock" /> 
         </div>
         <div class = "max-w-xl mt-10 ">
         <p class = "bio" >I am a hard-working web developer with proficiency in HTML, JavaScript, Python and CSS that is looking for a position in the web development field to expand knowledge and skills! 
