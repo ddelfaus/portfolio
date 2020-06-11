@@ -30,7 +30,7 @@ return(
     </div>
 
     <section class = "p-10  py-10 lg:flex lg:flex-row lg:space-x-40 "> 
-        <div class ="relative ">
+        <div class ="flex content-center justify-center relative">
         <img class= "object-cover mt-10" src={pic} alt="Picture of David Delfaus standing on a dock" /> 
         </div>
         <div class = "max-w-xl mt-10 ">
