@@ -7,12 +7,12 @@ function Contact() {
   return (
 
 <main class="flex flex-col items-center bg-gray-100">
-    <div class="w-full" style={{backgroundImage: `url(${topbanner})`}}>
+    {/* <div class="w-full" style={{backgroundImage: `url(${topbanner})`}}>
     <div class=" p-10  py-20  flex  flex-col  flex-wrap  justify-center  content-center">
   
-    </div>
+    </div> */}
 
-        </div>
+        {/* </div> */}
 <a class= "text-blue-600 text-4xl mt-4" href ={resume} download = {resume}>Download Resume as a pdf</a>
 <iframe class= "w-3/5 h-screen my-10"src= {resume}/>
 {/* <div class ="flex flex-col items-center">

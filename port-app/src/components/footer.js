@@ -20,8 +20,8 @@ return(
 
 <h1>Let's Connect!</h1>
 <div class= "flex flex-row space-x-5 justify-center ">
-<a href="https://www.linkedin.com/in/david-delfaus-6ba3a586/" class = "hover:text-teal-400">linkedin</a>
-<a href="https://github.com/ddelfaus" class = "hover:text-teal-400">github</a>
+<a href="https://www.linkedin.com/in/david-delfaus-6ba3a586/" class = "hover:text-teal-400">LinkedIn</a>
+<a href="https://github.com/ddelfaus" class = "hover:text-teal-400">GitHub</a>
 </div>
 <h2></h2>
 </div>
