@@ -13,7 +13,7 @@ function App() {
  
   return (
     
-<div className=  "flex flex-col h-screen bg-gray-100 font-serif">
+<div className=  "flex flex-col h-screen bg-gray-100 font-mono">
     
   <NavBar/>
     <Router primary={false}>

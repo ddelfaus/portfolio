@@ -1,8 +1,8 @@
 import React from 'react';
-import Project1 from '../pics/Untitled.png'
+import Project1 from '../pics/project1.png'
 import Project2 from '../pics/rmt.png'
 import Project3 from '../pics/chef.png'
-import topbanner from '../pics/markus-spiske-iar-afB0QQw-unsplash.jpg'
+import topbanner from '../pics/space6.jpg'
 
 function Projects() {
 
@@ -16,12 +16,12 @@ function Projects() {
 return(
 
     <content class="bg-gray-100" >
-    <div class="w-full" style={{backgroundImage: `url(${topbanner})`}}>
+    {/* <div class="w-full" style={{backgroundImage: `url(${topbanner})`}}>
     <div class=" p-10  py-20  flex  flex-col  flex-wrap  justify-center  content-center">
   
-    </div>
+    </div> */}
 
-        </div>
+        {/* </div> */}
     <section>
         <div class="bg-gray-100 lg:py-12 lg:flex lg:justify-center">
             <div class="bg-white lg:mx-2 lg:flex lg:max-w-6xl lg:shadow-lg lg:rounded-lg">
@@ -102,7 +102,7 @@ return(
                     </p>
                     <ul class ="list-disc ml-10 mt-2">
                         <li>Assigned to the the back-end to plan and develop the back end server database</li>
-                        <li>Develop data structure and migrated the database using knex</li>
+                        <li>Developed data structure and migrated the database using knex</li>
                         <li>Tested back-end code using JestJS</li>
                         <li>Provided supported to the front-end team </li>
                         <li>Guided front-end team on redux setup</li>
@@ -117,7 +117,7 @@ return(
     </section>
     <div class="bg-gray-100 py-10">
     <div class="flex justify-center text-3xl  ">
-        <h1>Check Out My Other Projects on</h1><a href="https://github.com/ddelfaus" class="no-underline hover:underline text-blue-500 ">&nbsp;Github</a>
+        <h1>Check Out My Other Projects on</h1><a href="https://github.com/ddelfaus" class="no-underline hover:underline text-blue-500 ">&nbsp;GitHub</a>
     </div>
     </div>
     </content>
