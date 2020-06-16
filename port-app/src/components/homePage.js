@@ -16,7 +16,7 @@ return(
 <main class="flex flex-col items-center bg-gray-100">
     <div class="w-full" style={{backgroundImage: `url(${topbanner})`}}>
   <div class=" p-10  py-20  flex  flex-col  flex-wrap  justify-center  content-center">
-    <div class=" m-0  p-0  text-5xl  text-white  antialiased  text-center">Hi I am David Delfaus, Full Stack Web developer.</div>
+    <div class=" m-0  p-0  text-5xl  text-white  antialiased  text-center">Hi I am David Delfaus, Full Stack Web Developer.</div>
    
  
   </div>
