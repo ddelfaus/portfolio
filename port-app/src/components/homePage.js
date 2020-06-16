@@ -40,7 +40,7 @@ return(
         </p>
         
         <p class = "bio mt-2">
-        I am from Virginia Beach, Va and have lived here all my life. I received a Dual Major degree in Finance and Accounting at Old Dominion University and have worked for non-for-profits as an accountant prior to programming. However, I was always interested in technology and computers and in (Month Year you started Lambda) I enrolled in <a  class= "text-blue-700 underline" href="https://lambdaschool.com/">Lambda School</a> to further develop my skills in coding and programming. 
+        I am from Virginia Beach, Va and have lived here all my life. I received a Dual Major degree in Finance and Accounting at Old Dominion University and have worked for non-for-profits as an accountant prior to programming. However, I was always interested in technology and computers and in September 2019 I enrolled in <a  class= "text-blue-700 underline" href="https://lambdaschool.com/">Lambda School</a> to further develop my skills in coding and programming. 
         </p>
         <p class = "bio mt-2">
         Lambda School was a fully immersive, highly intensive 9-month program where I completed hundreds of hours of code and built five fully functional web applications. I mastered my HTML, JavaScript, Python and CSS  skills as well as the <a  class= "text-blue-700 underline" href="#skills">skills listed below.</a> In addition to the technical skills, I also expanded my ability to build fully functional web applications on fully remote teams.
